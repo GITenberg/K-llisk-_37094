@@ -1,0 +1,29 @@
+_repo: K-llisk-_37094
+_version: 0.1.0
+contributor:
+  adapter:
+    agent_name: Kokko, Juhana
+    aliases:
+    - Kyosti
+    - Kyösti
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '39413'
+    url: http://www.gutenberg.org/2009/agents/39413
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37094'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PH'
+title: Kölliskö
+url: http://www.gutenberg.org/ebooks/37094
